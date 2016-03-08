@@ -61,7 +61,7 @@ void printBoard() {
         printw("\n");
     }
     attron(COLOR_PAIR(13));
-    printw("Ungureanu Ricardo | 311 CC - Tema PC\nTime and Date: %s", c);
+    printw("Ungureanu Ricardo | 2015\nTime and Date: %s", c);
     refresh();
 }
 
