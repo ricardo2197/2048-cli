@@ -53,7 +53,7 @@ int print_menu() {
     mvprintw(7, 4, "\\_______/(_______)     (_)  \\_____/");
     mvprintw(20, 4, "Apasa <ENTER> pentru a selecta optiunea");
     mvprintw(21, 4, "Sagetile sus/jos pentru a naviga in meniu");
-    mvprintw(22, 4, "** Ungureanu Ricardo - 311 CC Tema PC **");
+    mvprintw(22, 4, "** Ungureanu Ricardo - 2015 **");
 
     /* GUI stuff si afisarea meniului */
     init_pair(2, COLOR_GREEN, COLOR_BLACK);
