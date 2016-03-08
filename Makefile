@@ -10,3 +10,5 @@ main.o: main.c
 	gcc -c main.c -lmenu -lncurses -o main.o
 clean:
 	rm *.o
+run:
+	./2048EXE
